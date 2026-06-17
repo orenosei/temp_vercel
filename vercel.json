@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://13.211.150.139/$1"
+      "destination": "http://3.25.119.58/$1"
     }
   ]
 }
